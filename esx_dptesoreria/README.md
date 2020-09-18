@@ -1,4 +1,4 @@
-# esx_ammupzr
+# esx_tesoreria
 
 ## Download & Installation
 
@@ -13,16 +13,16 @@ git clone my github.
 - Put it in the `[esx]` directory
 
 ## Installation
-- Import `esx_ammupzr.sql` to your database
-- Add this in your `server.cfg`: start esx_ammupzr
+- Import `esx_dptesoreria.sql` to your database
+- Add this in your `server.cfg`: start esx_dptesoreria
 
 ```
-start esx_ammupzr
+start esx_dptesoreria
 ```
 
 # Legal
 ### License
-esx_ammunatiojob - gun shop
+esx_dptesoreria 
 
 Copyright (C) pzR
 
@@ -33,4 +33,4 @@ This program Is distributed In the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
 
 
-###Discord: https://discord.gg/PFzhee3 ###
+###Discord: https://discord.gg/g5J8thB ###
